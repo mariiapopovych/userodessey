@@ -1,5 +1,6 @@
 import zipfile
 import os
+import shutil
 
 def extract_zip(zip_path, extract_to):
     """Extract a zip file to the specified directory."""
