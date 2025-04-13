@@ -2,3 +2,4 @@ data/
 env/
 extracted_signatures/
 extracted_pdfs/
+__pycache__/
